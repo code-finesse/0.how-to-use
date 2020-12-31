@@ -1,5 +1,9 @@
 # 0.how-to-use
 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+https://markdown-here.com/livedemo.html
+
 - create folder structure
 - create contribution guidelines
 - add members who will help
